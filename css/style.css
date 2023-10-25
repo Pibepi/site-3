@@ -1,7 +1,7 @@
 @media screen and (min-width: 992px) and (max-width: 1080px) {  
 
     .nav1{
-        padding-left: 400px;
+        padding-left: 320px;
     }
 
 }
@@ -11,7 +11,7 @@
 @media screen and (min-width: 1080px) and (max-width: 1200px) {  
 
     .nav1{
-        padding-left: 450px;
+        padding-left: 420px;
     }
 
 }
@@ -20,7 +20,7 @@
 @media screen and (min-width: 1200px) and (max-width: 1400px) {  
 
     .nav1{
-        padding-left: 600px;
+        padding-left: 520px;
     }
 
 }
@@ -28,7 +28,7 @@
 @media screen and (min-width: 1300px) and (max-width: 1450px) {  
 
     .nav1{
-        padding-left: 700px;
+        padding-left: 600px;
     }
 
 }
@@ -38,7 +38,7 @@
 @media screen and (min-width: 1450px) and (max-width: 1600px) {  
 
     .nav1{
-        padding-left: 800px;
+        padding-left: 750px;
     }
 
 }
@@ -46,7 +46,7 @@
 @media screen and (min-width: 1500px) and (max-width: 1600px) {  
 
     .nav1{
-        padding-left: 850px;
+        padding-left: 700px;
     }
 
 }
@@ -54,7 +54,7 @@
 @media screen and (min-width: 1550px) and (max-width: 1900px) {  
 
     .nav1{
-        padding-left: 900px;
+        padding-left: 700px;
     }
 
 }
@@ -62,21 +62,21 @@
 @media screen and (min-width: 1600px) and (max-width: 1900px) {  
 
     .nav1{
-        padding-left: 950px;
+        padding-left: 700px;
     }
 
 }
 @media screen and (min-width: 1650px) and (max-width: 1900px) {  
 
     .nav1{
-        padding-left: 1000px;
+        padding-left: 700px;
     }
 
 }
 @media screen and (min-width: 1700px) and (max-width: 1900px) {  
 
     .nav1{
-        padding-left: 1050px;
+        padding-left: 1000px;
     }
 
 }
@@ -84,14 +84,14 @@
 @media screen and (min-width: 1750px) and (max-width: 1900px) {  
 
     .nav1{
-        padding-left: 1100px;
+        padding-left: 1000px;
     }
 
 }
 @media screen and (min-width: 1800px) and (max-width: 1900px) {  
 
     .nav1{
-        padding-left: 1150px;
+        padding-left: 1100px;
     }
 
 }
@@ -114,4 +114,25 @@
 
 .img1{
 width: 1000px;
+}
+
+.container_3{
+   height: 240px;
+background-color: rgb(221, 218, 218);
+display: grid;
+justify-content: center;
+
+}
+
+.form1{
+width: 500px;
+
+}
+
+@media screen and (min-width: 100px) and (max-width: 500px) {  
+
+    .form1{
+        width: 400px;
+    }
+
 }
