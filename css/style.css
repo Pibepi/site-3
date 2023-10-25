@@ -136,3 +136,11 @@ width: 500px;
     }
 
 }
+
+
+
+.button1{
+    display: grid;
+    justify-content: center;
+    
+}
